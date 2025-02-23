@@ -9,13 +9,13 @@
     },
     "Pen": {
       "MaxPressure": 1800,
-      "ButtonCount": 2
+      "Buttons": {
+        "ButtonCount": 2
+      }
     },
     "AuxiliaryButtons": {
       "ButtonCount": 12
-    },
-    "MouseButtons": null,
-    "Touch": null
+    }
   },
   "DigitizerIdentifiers": [
     {
